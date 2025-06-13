@@ -49,3 +49,37 @@ body {
 #restartBtn:hover {
   background-color: #ff2e2e;
 }
+
+@media (max-width: 600px) {
+  #board {
+    width: 300px;
+    height: 300px;
+  }
+
+  #board div {
+    width: 100px;
+    height: 100px;
+  }
+
+  #board div img {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+@media (max-width: 400px) {
+  #board {
+    width: 210px;
+    height: 210px;
+  }
+
+  #board div {
+    width: 70px;
+    height: 70px;
+  }
+
+  #board div img {
+    width: 40px;
+    height: 40px;
+  }
+}
