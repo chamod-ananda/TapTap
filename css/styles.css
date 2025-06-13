@@ -45,3 +45,7 @@ body {
   border-radius: 10px;
   cursor: pointer;
 }
+
+#restartBtn:hover {
+  background-color: #ff2e2e;
+}
