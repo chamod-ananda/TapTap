@@ -34,3 +34,14 @@ body {
   -ms-user-select: none;
   -webkit-user-select: none;
 }
+
+#restartBtn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  background-color: #ff5e5e;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
